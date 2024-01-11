@@ -1,5 +1,5 @@
 <?php
-/*Funções adicionadas para melhorar a leitura e automatizar as manipulações dos objetos.
+/*Funções adicionadas para melhorar a leitura e automatizar as manipulações dos objetos nos exemplos.
 A inicialização dos vetores com cadastro dos produtos e registro de vendas é necessária.
 Checar index.php e os objetos na pasta classes*/
 
